@@ -43,4 +43,5 @@ An open source hardware device support bitcoin signature with secure access.
 
 
 ECDSA Algorithm is based on https://github.com/kmackay/micro-ecc
+
 Hardware design follow http://www.lpcware.com/content/project/smartphone-quick-jack-solution
