@@ -3,6 +3,7 @@ coinSigner
 
 An open source hardware device support bitcoin signature with secure access.
 How the device work?
+
 1. User feed content to it, content could be bitcoin transaction information.
 2. User select already imported key.
 3. User input pin on phone or pc.
@@ -14,6 +15,7 @@ How the device work?
 
 
 How to make it secure
+
 1. Private key is encrypted with user's pin and saved in MCU internal flash.
 2. The content on internal flash is hardware encrpyted by NXP.
 3. All input from phone or pc have fixed length to avoid input overflow.
@@ -28,6 +30,7 @@ How to make it secure
 
 
 The device has different life circle.
+
 1. Vergin status
    No user data saved inside device.
    You can set a pin for it when device in this status. The device will enter Protected status after you set a pin.
