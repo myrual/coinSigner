@@ -45,3 +45,10 @@ An open source hardware device support bitcoin signature with secure access.
 ECDSA Algorithm is based on https://github.com/kmackay/micro-ecc
 
 Hardware design follow http://www.lpcware.com/content/project/smartphone-quick-jack-solution
+
+### Tested phone 
+NXP has verified following phone:
+iPhone4, 4s, 5, 5s(iOS 6 and 7)
+
+Myrual verified following phone:
+Samsung Galaxy note CDMA version. 
